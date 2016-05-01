@@ -1,0 +1,75 @@
+.style2
+{
+	font-weight:bold;
+	text-align:center;
+	color:white;
+	background-color:#ffaa7f;
+	
+}
+.style1
+{
+	font-weight:bold;
+	color:black;
+
+}
+.style6
+{
+	font-weight:bold;
+	color:black;
+   font-size:20px
+	
+}
+
+.style3
+{
+	font-weight:bold;
+	text-align:center;
+	color:brown;
+	font-size:20px
+	
+}
+.sty3
+{
+	
+	text-align:center;
+	color:#ffaa7f;
+	font-size:20px
+	
+}
+
+.style4
+{
+	font-weight:bold;
+	text-align:center;
+	color:brown;
+
+	font-size:30px
+	
+}
+
+
+.carth
+{
+	font-weight:bold;
+	text-align:center;
+	color:brown;
+	
+}
+.bulk5
+{
+	width:150px; 
+    height:20px; 
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+    background:lightgrey;
+     color:Brown;
+	border:10px ;
+	font-weight:bold;
+
+}
+		.intabular
+    {
+     -webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+  
+    }
